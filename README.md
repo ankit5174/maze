@@ -15,9 +15,13 @@ A simple game created using React.
 # Controls
 
 You can either use the on screen controls to play or use your physical keyboard.
+
 a: left
+
 s: down
+
 d: right
+
 w: up
 
 # Demo
