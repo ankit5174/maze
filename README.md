@@ -1,4 +1,4 @@
-#Maze
+# Maze
 
 A simple game created using React. 
 
