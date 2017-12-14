@@ -12,4 +12,15 @@ A simple game created using React.
 6. npm start
 7. Ctrl+C to stop
 
+# Controls
+
+You can either use the on screen controls to play or use your physical keyboard.
+a: left
+s: down
+d: right
+w: up
+
+# Demo
+
+https://youtu.be/DLkrqqS-IoU
 
